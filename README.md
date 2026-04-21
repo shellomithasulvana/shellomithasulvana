@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hai! 👋
 
-Halo, saya Shello, mahasiswa Data Science dari Indonesia 🇮🇩  
+Saya Shello, mahasiswa Data Science dari Indonesia 🇮🇩  
 
 Saya tertarik pada bagaimana data bisa diolah menjadi insight dan solusi nyata. Bagi saya, data bukan sekadar angka, tapi alat untuk memahami masalah dan membantu pengambilan keputusan yang lebih baik.  
 
